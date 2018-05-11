@@ -1,0 +1,56 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://mmomelt.weebly.com" resolutions="1x" timestamp="1526017998285">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="254599521" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mmomelt small.png" crc="165650527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aoc.jpg" crc="387311016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bdo.jpg" crc="3833207156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sea.jpg" crc="3834478232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tera.jpg" crc="3917550347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="top.jpg" crc="3956701003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="468px-20170531025256a0eqd405zsu7i48q.jpg" crc="506228490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tera1-crop-u1594.jpg" crc="3853436175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sea-crop-u1610.jpg" crc="3898700593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blade-crop-u1626.jpg" crc="4273439309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aoc1-crop-u1642.jpg" crc="4186259574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="151755574" seo="true" mt="1526017973211" redirect="true"/>
+</manifest>
