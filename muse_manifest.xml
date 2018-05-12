@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mmomelt.github.io" resolutions="1x" timestamp="1526097056678">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mmomelt.github.io" resolutions="1x" timestamp="1526099063096">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="390438800" ref="index"/>
+    <file name="index.css" crc="375596639" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -9,22 +9,49 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="436936948" ref="index"/>
     <file name="jquery.watch.js" crc="4178585335" ref="index"/>
-    <file name="require.js" crc="85721165" ref="index"/>
     <file name="webpro.js" crc="4152390327" ref="index"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
     <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="toppage.png" crc="3768363889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-twitter.png" crc="463505547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-icon-ffffff.png" crc="4226596700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about.png" crc="3893178286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact.png" crc="304920881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home.png" crc="3925431465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="list.png" crc="4226553705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="4283238821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo test.png" crc="203793365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="top.jpg" crc="3956701003" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="468px-20170531025256a0eqd405zsu7i48q.jpg" crc="506228490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tera1-crop-u1594.jpg" crc="3853436175" seo="true" ref="index">
+    <file name="tera1-crop-u1594.jpg" crc="4020095157" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="sea-crop-u1610.jpg" crc="3997307957" seo="true" ref="index">
@@ -36,15 +63,6 @@
     <file name="aoc1-crop-u1642.jpg" crc="4186259574" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="toppage.png" crc="3768363889" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg.jpg" crc="4283238821" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo test.png" crc="3866034095" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="371292672" seo="true" mt="1526097024192" redirect="true"/>
+  <file name="index.html" crc="4120600330" seo="true" mt="1526098992989" redirect="true"/>
 </manifest>

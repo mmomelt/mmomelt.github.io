@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mmomelt.github.io/index.html</loc>
-    <lastmod>2018-05-11</lastmod>
+    <lastmod>2018-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/toppage.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/icon-twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/youtube-icon-ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/about.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/contact.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/list.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/bg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mmomelt.github.io/images/logo%20test.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://mmomelt.github.io/images/top.jpg</image:loc>
     </image:image>
@@ -22,15 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mmomelt.github.io/images/aoc1-crop-u1642.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mmomelt.github.io/images/toppage.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mmomelt.github.io/images/bg.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mmomelt.github.io/images/logo%20test.png</image:loc>
     </image:image>
   </url>
 </urlset>
