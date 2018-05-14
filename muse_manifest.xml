@@ -1,38 +1,39 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mmomelt.github.io" resolutions="1x" timestamp="1526110719852">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mmomelt.github.io" resolutions="1x" timestamp="1526274758108">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="60565643" ref="index"/>
+    <file name="index.css" crc="4224389879" ref="index"/>
+    <file name="black-desert-online.css" crc="312365943" ref="black-desert-online"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="46400467" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="436936948" ref="index"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:black-desert-online"/>
+    <file name="museutils.js" crc="46400467" ref="index:black-desert-online"/>
+    <file name="whatinput.js" crc="86476730" ref="index:black-desert-online"/>
+    <file name="museconfig.js" crc="436936948" ref="index:black-desert-online"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:black-desert-online"/>
     <file name="webpro.js" crc="4152390327" ref="index"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
     <file name="touchswipe.js" crc="4228958816" ref="index"/>
-    <file name="require.js" crc="85721165" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index:black-desert-online"/>
   </folder>
   <folder name="images">
-    <file name="toppage.png" crc="3768363889" seo="true" ref="index">
+    <file name="toppage.png" crc="3768363889" seo="true" ref="index:black-desert-online">
       <caption webpage="index" alt=""/>
+      <caption webpage="black-desert-online" alt=""/>
     </file>
-    <file name="youtube-icon-ffffff.png" crc="4226596700" seo="true" ref="index">
+    <file name="youtube-icon-ffffff.png" crc="4226596700" seo="true" ref="index:black-desert-online">
       <caption webpage="index" alt=""/>
+      <caption webpage="black-desert-online" alt=""/>
     </file>
-    <file name="icon-twitter.png" crc="463505547" seo="true" ref="index">
+    <file name="icon-twitter.png" crc="463505547" seo="true" ref="index:black-desert-online">
       <caption webpage="index" alt=""/>
+      <caption webpage="black-desert-online" alt=""/>
     </file>
     <file name="the-elder-scrolls-online-5218x2427-game-mmorpg-forest-tree-settlement-1832.jpg" crc="4114946993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="logo test.png" crc="203793365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top.jpg" crc="3956701003" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -51,9 +52,22 @@
     <file name="aoc1-crop-u1642.jpg" crc="4186259574" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2239-4-a.png" crc="223852303" ref="index"/>
-    <file name="u2243-4.png" crc="254020791" ref="index"/>
-    <file name="u2246-4.png" crc="3792688679" ref="index"/>
+    <file name="u3371-4-a.png" crc="223852303" ref="index"/>
+    <file name="u3372-4-a.png" crc="4141969647" ref="index"/>
+    <file name="u3373-4-a.png" crc="4120175144" ref="index"/>
+    <file name="mmomelt small.png" crc="175142658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2654-4.png" crc="223852303" ref="black-desert-online"/>
+    <file name="u3141-4.png" crc="4141969647" ref="black-desert-online"/>
+    <file name="u3144-4.png" crc="4120175144" ref="black-desert-online"/>
+    <file name="playnow.png" crc="4132802878" seo="true" ref="black-desert-online">
+      <caption webpage="black-desert-online" alt=""/>
+    </file>
+    <file name="blackdesert64-2015-03-02-00-08-02-016.jpg" crc="4037245708" ref="black-desert-online">
+      <caption webpage="black-desert-online" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3774626148" seo="true" mt="1526110588497" redirect="true"/>
+  <file name="index.html" crc="4018855101" seo="true" mt="1526274233803" redirect="true"/>
+  <file name="black-desert-online.html" crc="368556854" seo="true" mt="1526274170525" redirect="true"/>
 </manifest>
